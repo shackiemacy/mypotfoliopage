@@ -1,0 +1,22 @@
+h3{
+    color:blue !important;
+    text-align:center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{  
+    /* width: 50%; */
+    float: left;
+    border:1px solid red
+    
+
+     
+}
+img{
+     width: 200px; 
+    height: 200px;
+    border: 10px dotted blue;
+    border-radius: 50% 0 0 50%;
+
+
+}
